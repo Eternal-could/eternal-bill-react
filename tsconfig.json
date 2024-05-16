@@ -9,7 +9,6 @@
     "resolveJsonModule": true,
     "allowJs": false,
     "strict": true,
-    "useUnknownInCatchVariables": true,
     "noEmit": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": false,
